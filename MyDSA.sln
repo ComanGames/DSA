@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDSA", "DSA\MyDSA.csproj", "{DC560F03-E85A-4EEF-855E-EFDEF41965CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyDSA.Tests", "MyDSA.Tests\MyDSA.Tests.csproj", "{C3E0C88F-92EB-44AE-994F-723F8B9AEDC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DC560F03-E85A-4EEF-855E-EFDEF41965CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC560F03-E85A-4EEF-855E-EFDEF41965CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC560F03-E85A-4EEF-855E-EFDEF41965CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC560F03-E85A-4EEF-855E-EFDEF41965CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3E0C88F-92EB-44AE-994F-723F8B9AEDC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3E0C88F-92EB-44AE-994F-723F8B9AEDC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3E0C88F-92EB-44AE-994F-723F8B9AEDC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3E0C88F-92EB-44AE-994F-723F8B9AEDC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
